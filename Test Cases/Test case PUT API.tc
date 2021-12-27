@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PUT</description>
+   <name>Test case PUT API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f0f300b-c7ca-42fe-800f-8c6b80876398</testCaseGuid>
+</TestCaseEntity>

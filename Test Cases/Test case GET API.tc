@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GET</description>
+   <name>Test case GET API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6ebc8e5-6173-41e2-b585-7947e658bdcc</testCaseGuid>
+</TestCaseEntity>

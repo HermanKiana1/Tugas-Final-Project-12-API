@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DELETE</description>
+   <name>Test case DEL API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06094698-e6ad-4eb3-ae1f-d54c639a2d98</testCaseGuid>
+</TestCaseEntity>

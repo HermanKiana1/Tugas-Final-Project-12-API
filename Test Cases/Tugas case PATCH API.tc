@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PATCH</description>
+   <name>Tugas case PATCH API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ee5427-1f85-4c41-8300-2106a7364a04</testCaseGuid>
+</TestCaseEntity>
